@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Laba_3.1_sem_1", "Laba_3.1_sem_1\Laba_3.1_sem_1.vcxproj", "{513CD030-1366-4C02-B2AC-EFDAAA5B3BF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{513CD030-1366-4C02-B2AC-EFDAAA5B3BF0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{513CD030-1366-4C02-B2AC-EFDAAA5B3BF0}.Debug|Win32.Build.0 = Debug|Win32
+		{513CD030-1366-4C02-B2AC-EFDAAA5B3BF0}.Release|Win32.ActiveCfg = Release|Win32
+		{513CD030-1366-4C02-B2AC-EFDAAA5B3BF0}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
